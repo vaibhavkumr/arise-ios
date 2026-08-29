@@ -47,3 +47,9 @@ The full screen flow is implemented and navigable. Progression state is local
 — there's no backend, no account sync, and the paywall is wired to the store
 view model but not to a live App Store product. A React Native port of the same
 concept lives in `arise-expo`.
+
+## Timeline
+
+Written April 2026 (20 source files).
+
+Dates come from file modification times on disk, not from commit history - this repository was initialised later, so the commit dates are all from when it was published rather than when the code was written.
